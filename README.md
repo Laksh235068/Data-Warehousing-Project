@@ -60,3 +60,8 @@ Hi, I'm Lakshay., and this project is part of my Data Engineering and Data Analy
 This project demonstrates my skills in SQL, ETL, Data Warehousing, and Data Modeling.
 
 I am passionate about working with data and building data-driven solutions.
+
+**REFERENCES :
+
+Alex The Analyst - https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&si=A8HKYBmzYvm9GxjU
+Data With Baraa - https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8&index=1
